@@ -1,3 +1,5 @@
+# Hackerrank Problem : List Comprehension
+# Description : To print out the all possible [i,j,k] combinations within the given range except those where i+j+k == n
 if __name__ == '__main__':
     x = int(input())
     y = int(input())
