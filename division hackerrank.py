@@ -4,6 +4,7 @@
 if __name__ == '__main__':
     a = int(input())
     b = int(input())
-print (a//b)
-print (a/b) 
+    print(a//b) #floor/integer division (gives only the floor, not decimals)
+    print(a/b) # float divsion (returns decimals too)
+    
 
