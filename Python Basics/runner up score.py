@@ -3,9 +3,14 @@
 
 if __name__ == '__main__':
     n = int(input())
-    arr = list(map(int, input().split()))
-    max_score = max(arr)
-    arr = [x for x in arr if x != max_score]
-    max_score = max(arr)
-    print(max_score)
+    arr = set(map(int, input().split()))
+    
+    my_set =sorted(arr,reverse=True)
+    my_list = list(my_set)
+    
+    
+
+    print(my_list[1])
+    
+    
    
