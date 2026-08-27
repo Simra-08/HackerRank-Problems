@@ -74,6 +74,6 @@ I am progressing through these topics in order, starting with Python fundamental
 
 I try to solve problems independently first and use hints when I get stuck, focusing on understanding the logic rather than memorizing solutions.
 
-After building a strong Python foundation, I will continue my journey with **NumPy and Pandas**, followed by **SQL, Data Analysis, and Machine Learning** as I work toward becoming a **Data Scientist**.
+After building a strong Python foundation, I will continue my journey with **NumPy and Pandas**, followed by **SQL, Data Analysis, and Machine Learning**.
 
 > **Learn → Practice → Solve → Improve → Continue**
