@@ -1,9 +1,8 @@
 # Hackerrank Probelem : Lists
-<<<<<<< HEAD
+
 # Description : To carry out the commands given by the user and print them
-=======
-#Description : To carry out the commands given as per the user and print them
->>>>>>> c77877d (What's your name hackerrank)
+
+
 
 if __name__ == '__main__':
     N = int(input())
